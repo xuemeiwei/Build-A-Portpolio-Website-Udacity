@@ -1,21 +1,28 @@
 body {
-  font-family: 'Lato', sans-serif;
-  color: #747704;
-  font-weight: 300;
-}
-
-.text-muted {
-  color: #BCBBBB;
-}
-
-.text-thin {
-  font-weight: 100;
-}
-
-.title-super {
-  font-size: 60px;
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
 }
 
 .title-logo {
-  margin-top: 10px;
+    margin-top: 10px;
 }
+
+#mainimage {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.text-muted {
+    color: #7d97ad !important;
+    margin: 15px 0px;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
